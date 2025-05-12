@@ -1,6 +1,8 @@
 {
     "name": "FiftyOne Workspace",
     // The Docker image to use as a base for the dev container
+    // We use the official FiftyOne image from Docker Hub 
+    // https://hub.docker.com/r/voxel51/fiftyone/
     "image": "voxel51/fiftyone",
     "features": {
         // Git needs to be installed inside the container 
