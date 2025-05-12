@@ -2,6 +2,8 @@
 
 [FiftyOne](https://voxel51.com/fiftyone/) is an open-source toolkit for building high-quality datasets and computer vision workflows.
 
+I recommend [installing Python3.11](https://github.com/andandandand/practical-computer-vision/blob/main/docs/installing_python311.md) to run the examples on this repository. 
+
 ## Installation
 
 Follow these steps to install FiftyOne using Python 3.11 in a dedicated virtual environment named `.venv`.
