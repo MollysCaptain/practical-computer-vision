@@ -10,6 +10,7 @@
 * [Setting up GPU and TPU usage on Kaggle Noteboks](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kaggle-gpu-tpu-guide.md)
 * [Setting up a wandb API token and using it on Kaggle Notebooks and Google Colab](https://github.com/andandandand/practical-computer-vision/blob/main/docs/setup-wandb.md)
 * [Setting up kagglehub on Google Colab](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kagglehub_setup_colab.md)
+* [Setting up a HuggingFace token](https://github.com/andandandand/practical-computer-vision/blob/main/docs/huggingface-account-and-token.md)
 * [Installing FiftyOne with venv](https://github.com/andandandand/practical-computer-vision/blob/main/docs/fiftyone_venv.md)
 * [Copying data folders without download through Google Drive](https://github.com/andandandand/practical-computer-vision/blob/main/docs/add_shortcut_to_google_drive.md)
 
