@@ -10,7 +10,7 @@ Follow these steps to add a shortcut to a shared Google Drive folder in your own
 
 ## 2. Locate the Shared Folder
 
-- Find the folder you want to add a shortcut to. If someone shared it with you, look under the **"Shared with me"** section on the left sidebar[11].
+- Find the folder you want to add a shortcut to. If someone shared it with you, look under the **"Shared with me"** section on the left sidebar.
 
 ## 3. Add the Shortcut
 
@@ -26,9 +26,18 @@ Follow these steps to add a shortcut to a shared Google Drive folder in your own
 
 - Go to the location you selected (e.g., "My Drive").
 - You will see the shortcut there, marked with a small arrow icon.
+- You will be able to refer to this folder using the path specified: 
+
+```python
+from pathlib import Path
+import os
+path = Path("/gdrive/MyDrive/<folder_name>")
+# This should print the content of the folder
+os.listdir(path)
+``` 
 
 ---
 
 **Tip:**  
-Shortcuts are just pointers to the original folder-they do not make a copy or use your storage quota[15]. Any changes you make to files within the shortcut are reflected in the original folder.
+Shortcuts are just pointers to the original folder-they do not make a copy or use your storage quota. Any changes you make to files within the shortcut are reflected in the original folder.
 
