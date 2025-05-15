@@ -32,7 +32,7 @@ Follow these steps to add a shortcut to a shared Google Drive folder in your own
 from pathlib import Path
 import os
 path = Path("/gdrive/MyDrive/<folder_name>")
-# This should print the content of the folder
+# This should print the filenames inside the folder
 os.listdir(path)
 ``` 
 
