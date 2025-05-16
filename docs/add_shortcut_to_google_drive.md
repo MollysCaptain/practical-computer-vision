@@ -1,6 +1,8 @@
 # How to Add a Shortcut to a Google Drive Folder
 
-Follow these steps to add a shortcut to a shared Google Drive folder in your own Drive for easy access. 
+Adding a shortcut from a shared Google Drive folder to your own account allows you fast access to the data without having to download it.
+
+Follow these steps to add a shortcut to a shared Google Drive folder in your own Drive for quick access. 
 
 ---
 
