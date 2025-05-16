@@ -22,6 +22,7 @@
 * [Matrix Multiplication, Non-linear Activations, and Network Shape](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Matrix_multiplication_Non_Linearities_and_Network_Shape.ipynb)
 * [Predicting Car Prices Based on their Images](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Predicting_Car_Prices_Based_on_Their_Images.ipynb)
 * [Fundamentals of Convolutional Networks with LeNet5 on Kaggle's Digit Recognition Competition](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Kaggle_Competition_LeNet5_Digit_Recognition.ipynb)
+* [Dropout Visualization on MNIST Images](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Dropout_Visualization_on_MNIST_Images.ipynb)
 * [Looking into LeNet5 with Random Weight Initialization](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Looking_into_LeNet5_with_Random_Weights.ipynb)
 * [Classifying Pet Images by Breed](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Pet_Classification.ipynb)
 * [Intuitions about Image Embeddings and Pairwise Comparison](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Pairwise_Comparison_of_Embeddings.ipynb)
