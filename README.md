@@ -7,9 +7,13 @@
 
 ## Setting up 
 
+* [Installing Python 3.11](https://github.com/andandandand/practical-computer-vision/blob/main/docs/installing_python311.md)
+* [Installing FiftyOne with venv](https://github.com/andandandand/practical-computer-vision/blob/main/docs/fiftyone_venv.md)
 * [Setting up GPU and TPU usage on Kaggle Noteboks](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kaggle-gpu-tpu-guide.md)
 * [Setting up a wandb API token and using it on Kaggle Notebooks and Google Colab](https://github.com/andandandand/practical-computer-vision/blob/main/docs/setup-wandb.md)
 * [Setting up kagglehub on Google Colab](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kagglehub_setup_colab.md)
+* [Setting up a HuggingFace token](https://github.com/andandandand/practical-computer-vision/blob/main/docs/huggingface-account-and-token.md)
+* [Copying data folders without download through Google Drive](https://github.com/andandandand/practical-computer-vision/blob/main/docs/add_shortcut_to_google_drive.md)
 
 ## Tutorial Notebooks
 
@@ -18,6 +22,7 @@
 * [Matrix Multiplication, Non-linear Activations, and Network Shape](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Matrix_multiplication_Non_Linearities_and_Network_Shape.ipynb)
 * [Predicting Car Prices Based on their Images](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Predicting_Car_Prices_Based_on_Their_Images.ipynb)
 * [Fundamentals of Convolutional Networks with LeNet5 on Kaggle's Digit Recognition Competition](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Kaggle_Competition_LeNet5_Digit_Recognition.ipynb)
+* [Dropout Visualization on MNIST Images](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Dropout_Visualization_on_MNIST_Images.ipynb)
 * [Looking into LeNet5 with Random Weight Initialization](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Looking_into_LeNet5_with_Random_Weights.ipynb)
 * [Classifying Pet Images by Breed](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Pet_Classification.ipynb)
 * [Intuitions about Image Embeddings and Pairwise Comparison](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Pairwise_Comparison_of_Embeddings.ipynb)
@@ -32,6 +37,7 @@
 * [Fine-tuning a Resnet for multilabel classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Finetuning_a_Resnet_for_Multilabel_Classification.ipynb)
 * [Semantic Segmentation with U-Net](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/U-net_Tutorial.ipynb)
 * [Introduction to CLIP and Zero Shot Classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Intro_to_CLIP_ZeroShot_Classification.ipynb)
+* [Zero-shot Object Detection with Grounding DINO](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Zero_Shot_Object_Detection_with_Grounding_DINO.ipynb)
 
 ## Course with Evaluations on openHPI
 * [Practical Computer Vision with PyTorch on openHPI](https://open.hpi.de/courses/computervision2025)

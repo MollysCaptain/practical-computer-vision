@@ -97,6 +97,6 @@ print(my_models)
 
 ## Security Tips
 - Never share your token publicly
-- Don't commit token to version control
+- Don't commit the token to version control
 - Use environment variables when possible
 - Revoke compromised tokens immediately
