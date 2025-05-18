@@ -1,6 +1,8 @@
 # Setting Up the Practical Computer Vision Repository with a Dev Container
 
-This guide explains how to set up the Practical Computer Vision repository using a Dev Container, both locally in VS Code, PyCharm, or Cursor, and in a GitHub Codespace. Dev containers provide a consistent and isolated environment for development, ensuring that everyone working on the project has the same tools and dependencies.
+This guide explains how to set up the Practical Computer Vision repository using a [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers), both locally in VS Code, PyCharm, or Cursor, and in a [GitHub Codespace](https://github.com/features/codespaces). Dev containers provide a consistent and isolated environment for development, ensuring that everyone working on the project has the same tools and dependencies.
+
+**Important:** This dev container image is designed for inference tasks and does not include support for GPUs or hardware accelerators. If want to run the code samples that train neural networks consider using a cloud-based environment like [Kaggle](https://www.kaggle.com/kernels) or [Google Colab](https://colab.research.google.com/), which provide free access to GPUs.
 
 ## Prerequisites
 
@@ -26,7 +28,7 @@ This guide explains how to set up the Practical Computer Vision repository using
     *   **PyCharm:** Open the cloned repository in PyCharm. Configure the remote development environment to use the Dockerfile in the repository.
     *   **Cursor:** Open the cloned repository in Cursor. Cursor should automatically detect the `.devcontainer/devcontainer.json` file and offer to open the project in the dev container.
 
-**Important:** This dev container image is designed for inference tasks and does not include support for GPUs or hardware accelerators. If want to run the code samples that train neural networks consider using a cloud-based environment like [Kaggle](https://www.kaggle.com/kernels) or [Google Colab](https://colab.research.google.com/), which provide free access to GPUs.
+
 
 3.  **Build the Dev Container:**
 
