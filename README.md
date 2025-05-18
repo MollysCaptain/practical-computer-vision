@@ -9,6 +9,7 @@
 
 * [Installing Python 3.11](https://github.com/andandandand/practical-computer-vision/blob/main/docs/installing_python311.md)
 * [Installing FiftyOne with venv](https://github.com/andandandand/practical-computer-vision/blob/main/docs/fiftyone_venv.md)
+* [Running inference notebooks inside a Dev Container](https://github.com/andandandand/practical-computer-vision/blob/main/docs/running_dev_container.md)
 * [Setting up GPU and TPU usage on Kaggle Noteboks](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kaggle-gpu-tpu-guide.md)
 * [Setting up a wandb API token and using it on Kaggle Notebooks and Google Colab](https://github.com/andandandand/practical-computer-vision/blob/main/docs/setup-wandb.md)
 * [Setting up kagglehub on Google Colab](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kagglehub_setup_colab.md)
