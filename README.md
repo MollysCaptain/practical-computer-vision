@@ -19,7 +19,7 @@ Before starting the notebooks, prepare your environment using these setup guides
 *   [Copying data folders without download through Google Drive](https://github.com/andandandand/practical-computer-vision/blob/main/docs/add_shortcut_to_google_drive.md) (a method for large datasets)
 *   *An alternative method to run FiftyOne, useful for cloud environments like GitHub Codespaces, is in [this guide](https://github.com/andandandand/fiftyone-getting-started/tree/main).*
 
-## 📚 Tutorial Notebooks Curriculum
+## 📚 Tutorial Notebooks 
 
 This collection of tutorial notebooks is organized to progress from foundational concepts to advanced applications. Click the badges to open them in Google Colab or Kaggle.
 
