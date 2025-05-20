@@ -19,6 +19,7 @@
 ## Tutorial Notebooks
 
 * [Digital Image Representation in PIL, NumPy, and PyTorch](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Digital_Image_Representation_PIL_NumPy_PyTorch.ipynb)
+* [Getting Started with FiftyOne Datasets](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Getting_Started_with_FiftyOne_Datasets.ipynb)
 * [Training a Multilayer Perceptron for Image-based Regression](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Training_a_Multilayer_Perceptron_for_Image_based_Regression.ipynb)
 * [Matrix Multiplication, Non-linear Activations, and Network Shape](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Matrix_multiplication_Non_Linearities_and_Network_Shape.ipynb)
 * [Predicting Car Prices Based on their Images](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Predicting_Car_Prices_Based_on_Their_Images.ipynb)
