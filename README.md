@@ -40,6 +40,7 @@
 * [Semantic Segmentation with U-Net](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/U-net_Tutorial.ipynb)
 * [Introduction to CLIP and Zero Shot Classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Intro_to_CLIP_ZeroShot_Classification.ipynb)
 * [Zero-shot Object Detection with Grounding DINO](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Zero_Shot_Object_Detection_with_Grounding_DINO.ipynb)
+* [Denoising Diffusion Probabilistic U-net for MNIST Digit Generation](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Denoising_Diffusion_Probabilistic_Model_U_net_MNIST_Generation.ipynb)
 
 ## Course with Evaluations on openHPI
 * [Practical Computer Vision with PyTorch on openHPI](https://open.hpi.de/courses/computervision2025)
