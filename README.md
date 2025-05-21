@@ -57,7 +57,7 @@ For a structured learning experience with quizzes and assignments, enroll in the
 
 Video tutorials are available:
 *   [YouTube Playlist](https://www.youtube.com/playlist?list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH)
-*   [Review Questions for each video](https://github.com/andandandand/practical-computer-vision/blob/main/docs/review_questions.md) are provided to check understanding.
+*   [Review Questions for each video](https://github.com/andandandand/practical-computer-vision/blob/main/docs/review_questions.md) to check understanding.
 
 ## 💬 Join the Community
 
