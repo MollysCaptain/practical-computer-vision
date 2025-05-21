@@ -17,7 +17,6 @@ Before starting the notebooks, prepare your environment using these setup guides
 *   [Setting up kagglehub on Google Colab](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kagglehub_setup_colab.md) (for accessing Kaggle models and datasets)
 *   [Setting up a HuggingFace token](https://github.com/andandandand/practical-computer-vision/blob/main/docs/huggingface-account-and-token.md) (for accessing models and datasets from Hugging Face Hub)
 *   [Copying data folders without download through Google Drive](https://github.com/andandandand/practical-computer-vision/blob/main/docs/add_shortcut_to_google_drive.md) (a method for large datasets)
-*   *An alternative method to run FiftyOne, useful for cloud environments like GitHub Codespaces, is in [this guide](https://github.com/andandandand/fiftyone-getting-started/tree/main).*
 
 ## 📚 Tutorial Notebooks 
 
