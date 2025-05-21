@@ -3,7 +3,7 @@
 ![](images/image_embeddings_zero_cluster.gif)
 ***Visualizing image embeddings in a 2D space.***
 
-This repository provides tutorials suitable for people at various stages of learning computer vision. It covers foundational concepts, such as image representation and the basics of neural networks, and extends to more advanced topics including generative models and zero-shot learning. The material is designed to be useful for those new to the field as well as practitioners looking to work with contemporary tools and techniques.
+This repository provides tutorials for people at various stages of learning computer vision. It covers foundational concepts, such as image representation and the basics of neural networks, and extends to more advanced topics including generative models and zero-shot learning. The material is designed to be useful for those new to the field as well as practitioners looking to work with contemporary tools and techniques.
 
 ## 🛠️ Get Started: Setting Up Your Environment
 
