@@ -1,7 +1,7 @@
 # Practical Computer Vision with PyTorch and FiftyOne
 
 ![](images/image_embeddings_zero_cluster.gif)
-***Visualizing image embeddings in a 2D space.***
+***Visualizing image embeddings in a 2D space through the FiftyOne app***
 
 This repository provides tutorials for people at various stages of learning computer vision. It covers foundational concepts, such as image representation and the basics of neural networks, and extends to more advanced topics including generative models and zero-shot learning. The material is designed to be useful for those new to the field as well as practitioners looking to work with contemporary tools and techniques.
 
@@ -65,7 +65,7 @@ For questions, tutorial discussions, or project sharing, join the FiftyOne Commu
 *   [FiftyOne Community Discord - Invite Link](https://discord.com/invite/fiftyone-community)
 *   [Direct Channel Link](https://discord.com/channels/1266527359511564372/1345119286041116763) (You must accept the invite via the link above first!)
 
-## 🤝 Contributing, Contact & License
+## Contributing, Contact & License
 
 You are welcome to fork this repository, experiment with the code, and contribute. Please maintain the Creative Commons Attribution License.
 
