@@ -23,7 +23,6 @@ session = fo.launch_app(dataset)
 # sample = dataset.first()
 # print(sample["predictions"])  # Should show detections from Faster R-CNN
 
-
 #If we ran this in code we would need to hold the session open to prevent the app server from exiting
 session.wait()
 
