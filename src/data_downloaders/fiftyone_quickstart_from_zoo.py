@@ -1,7 +1,5 @@
 import fiftyone as fo
 import fiftyone.zoo as foz
-from pprint import pprint
-
 # Load the quickstart dataset
 # This is a small dataset that ships with fiftyone
 # It contains a few images and labels
