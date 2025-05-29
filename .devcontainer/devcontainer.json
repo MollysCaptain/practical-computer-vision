@@ -17,6 +17,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
+                "GoogleCloudTools.cloudcode",
                 "github.copilot",
                 "github.copilot-chat",
                 "ms-python.python",
