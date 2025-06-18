@@ -14,3 +14,4 @@ downloads
 notebooks/possibly_missing_labels/*
 .env
 .venv
+data/*
