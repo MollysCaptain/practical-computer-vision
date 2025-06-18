@@ -1,7 +1,5 @@
 import fiftyone as fo
 import fiftyone.zoo as foz
-from pprint import pprint
-
 # Load the quickstart dataset
 # This is a small dataset that ships with fiftyone
 # It contains a few images and labels
@@ -24,7 +22,6 @@ session = fo.launch_app(dataset)
 ## Print a sample's predictions
 # sample = dataset.first()
 # print(sample["predictions"])  # Should show detections from Faster R-CNN
-
 
 #If we ran this in code we would need to hold the session open to prevent the app server from exiting
 session.wait()

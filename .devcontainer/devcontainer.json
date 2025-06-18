@@ -13,10 +13,13 @@
     },
     "updateContentCommand": "apt-get update && apt-get install -y vim less",
 
-    "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
+    // Upgrade pip, install requirements and then utilty to manage FiftyOne plugins
+    "postCreateCommand": "python -m pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt",
+
     "customizations": {
         "vscode": {
             "extensions": [
+                "GoogleCloudTools.cloudcode",
                 "github.copilot",
                 "github.copilot-chat",
                 "ms-python.python",
